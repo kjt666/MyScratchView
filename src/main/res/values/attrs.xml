@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyScratchView">
+        <attr name="scratchSrc" format="reference|color" />
+        <attr name="giftSrc" format="reference|color" />
+        <attr name="giftText" format="string" />
+        <attr name="giftTextColor" format="color" />
+        <attr name="giftTextSize" format="dimension" />
+        <attr name="viewType" format="string" />
+    </declare-styleable>
+</resources>
